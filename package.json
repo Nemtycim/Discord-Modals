@@ -1,0 +1,17 @@
+{
+  "name": "asdasdsad",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.28.0",
+    "discord-modals": "^1.2.8",
+    "discord.js": "^13.6.0"
+  }
+}
