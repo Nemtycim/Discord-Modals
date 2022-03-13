@@ -4,6 +4,7 @@
 *Altaki yola bakarak botu çalıştır.*
 
 `1) Dosyayı İndir.`
+
 `2) İndirdikden sonra kurulum u aç`
 
 3) ayarlar.js deki boş kalan yerleri doldur
